@@ -7,7 +7,7 @@ export const tedaviAmacliPilatesServices: Service[] = [
     title: 'Reformer Pilates',
     description: 'Özel reformer cihazı ile kişiye özel pilates egzersizleri ve postür düzeltme programları.',
     fullDescription: 'Reformer Pilates, özel bir cihaz kullanılarak yapılan, kontrollü ve akıcı hareketlerle kas gücünü artıran, esnekliği geliştiren ve postürü düzelten bir egzersiz yöntemidir. Kişiye özel programlarla, tüm vücut kasları dengeli şekilde çalıştırılır ve fonksiyonel hareket kalitesi artırılır.',
-    imagePath: '/assets/images/services/reformer-pilates.jpg',
+    imagePath: '/assets/images/tedavi/reformer-pilates.jpg',
     slug: 'reformer-pilates',
     icon: 'Dumbbell',
     benefits: [
@@ -26,7 +26,7 @@ export const tedaviAmacliPilatesServices: Service[] = [
     title: 'Mat Pilates',
     description: 'Matla yapılan klasik pilates egzersizleri ile vücut farkındalığı ve güç kazanımı.',
     fullDescription: 'Mat Pilates, zemin üzerinde mat kullanılarak yapılan, vücut ağırlığı ile çalışılan pilates egzersizleridir. Core kaslarını güçlendirirken, esneklik ve denge geliştirir.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/mat-pilates.jpg',
     slug: 'mat-pilates',
     icon: 'Activity',
     benefits: [
@@ -45,7 +45,7 @@ export const tedaviAmacliPilatesServices: Service[] = [
     title: 'Hamile Pilatesi',
     description: 'Hamilelik dönemine özel güvenli ve etkili pilates programları.',
     fullDescription: 'Hamile Pilatesi, hamilelik döneminde güvenli şekilde yapılabilen, doğuma hazırlık ve doğum sonrası toparlanma için özel olarak tasarlanmış pilates egzersizleridir.',
-    imagePath: '/assets/images/services/reformer-pilates.jpg',
+    imagePath: '/assets/images/tedavi/hamile-pilates.jpg',
     slug: 'hamile-pilatesi',
     icon: 'Heart',
     benefits: [
@@ -64,7 +64,7 @@ export const tedaviAmacliPilatesServices: Service[] = [
     title: 'Online Pilates',
     description: 'Evinizin konforunda, canlı veya kayıtlı pilates dersleri.',
     fullDescription: 'Online Pilates, uzaktan eğitim ile evinizde veya istediğiniz yerde pilates yapabilmenizi sağlar. Canlı dersler veya kayıtlı videolarla kişiye özel programlar sunulur.',
-    imagePath: '/assets/images/services/reformer-pilates.jpg',
+    imagePath: '/assets/images/tedavi/online-pilates.jpg',
     slug: 'online-pilates',
     icon: 'Monitor',
     benefits: [
@@ -87,7 +87,7 @@ export const rehabilitasyonServices: Service[] = [
     title: 'Ortopedik Rehabilitasyon',
     description: 'Kas-iskelet sistemi yaralanmaları ve ameliyat sonrası rehabilitasyon programları.',
     fullDescription: 'Ortopedik Rehabilitasyon, kas-iskelet sistemi yaralanmaları, kırıklar, burkulma, çıkıklar ve ameliyat sonrası iyileşme sürecinde uygulanan özel tedavi programlarıdır.',
-    imagePath: '/assets/images/services/spor-yaralanmalari.jpg',
+    imagePath: '/assets/images/tedavi/ortapedik-rehabilite.jpg',
     slug: 'ortopedik-rehabilitasyon',
     icon: 'Bone',
     benefits: [
@@ -106,7 +106,7 @@ export const rehabilitasyonServices: Service[] = [
     title: 'Sporcu Rehabilitasyonu',
     description: 'Spor yaralanmalarının tedavisi ve spora güvenli dönüş programları.',
     fullDescription: 'Sporcu Rehabilitasyonu, spor yaralanmalarının tedavisi ve sporcuların güvenli ve hızlı bir şekilde spora dönüşünü sağlayan özel rehabilitasyon programlarıdır.',
-    imagePath: '/assets/images/services/spor-yaralanmalari.jpg',
+    imagePath: '/assets/images/tedavi/sporcu-rehabilite.jpg',
     slug: 'sporcu-rehabilitasyonu',
     icon: 'Trophy',
     benefits: [
@@ -125,7 +125,7 @@ export const rehabilitasyonServices: Service[] = [
     title: 'Nörolojik Rehabilitasyon',
     description: 'Sinir sistemi hastalıkları ve felç sonrası rehabilitasyon.',
     fullDescription: 'Nörolojik Rehabilitasyon, inme, felç, MS, Parkinson gibi sinir sistemi hastalıklarında fonksiyonel bağımsızlığı artırmak için uygulanan özel tedavi programlarıdır.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/norolojik-rehabilite.jpg',
     slug: 'norolojik-rehabilitasyon',
     icon: 'Brain',
     benefits: [
@@ -144,7 +144,7 @@ export const rehabilitasyonServices: Service[] = [
     title: 'Geriatrik Rehabilitasyon',
     description: 'Yaşlılık dönemine özel rehabilitasyon ve hareket programları.',
     fullDescription: 'Geriatrik Rehabilitasyon, yaşlı bireylerin fonksiyonel bağımsızlığını korumak ve artırmak, düşme riskini azaltmak için uygulanan özel rehabilitasyon programlarıdır.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/Geriatrik-rehabilite.jpg',
     slug: 'geriatrik-rehabilitasyon',
     icon: 'User',
     benefits: [
@@ -163,7 +163,7 @@ export const rehabilitasyonServices: Service[] = [
     title: 'Ameliyat Sonrası Rehabilitasyon',
     description: 'Cerrahi müdahale sonrası hızlı ve güvenli iyileşme programları.',
     fullDescription: 'Ameliyat Sonrası Rehabilitasyon, ortopedik ameliyatlar sonrasında hızlı iyileşme, ağrı kontrolü ve fonksiyonel bağımsızlığı sağlamak için uygulanan özel programlardır.',
-    imagePath: '/assets/images/services/spor-yaralanmalari.jpg',
+    imagePath: '/assets/images/tedavi/Ameliyat-sonra-rehabilite.jpg',
     slug: 'ameliyat-sonrasi-rehabilitasyon',
     icon: 'Stethoscope',
     benefits: [
@@ -186,7 +186,7 @@ export const tedaviServices: Service[] = [
     title: 'Manuel Terapi',
     description: 'Eklem ve yumuşak doku problemleri için özel manuel tedavi teknikleri.',
     fullDescription: 'Manuel terapi, eklem ve yumuşak doku problemlerinin tedavisinde kullanılan, eller ile uygulanan özel tedavi tekniklerini içerir. Eklem mobilizasyonu, yumuşak doku mobilizasyonu ve manipülasyon teknikleri ile ağrı azaltılır ve hareket genişliği artırılır.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/manuel-terapi.jpg',
     slug: 'manuel-terapi',
     icon: 'Hand',
     benefits: [
@@ -205,7 +205,7 @@ export const tedaviServices: Service[] = [
     title: 'Lenf Drenaj',
     description: 'Lenf sistemini aktive eden özel masaj tekniği ile ödem ve şişlik tedavisi.',
     fullDescription: 'Manuel Lenf Drenaj, lenf sisteminin doğal akışını destekleyen, özel bir masaj tekniğidir. Ameliyat sonrası ödem, lenfödema, spor yaralanmaları ve kronik şişliklerin tedavisinde etkilidir. Yumuşak, ritmik hareketlerle lenf sıvısının dolaşımı artırılır.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/lenf-drenaj.jpg',
     slug: 'lenf-drenaj',
     icon: 'Droplets',
     benefits: [
@@ -224,7 +224,7 @@ export const tedaviServices: Service[] = [
     title: 'Kinezyolojik Bantlama',
     description: 'Özel elastik bantlarla kas ve eklem desteği, ağrı kontrolü.',
     fullDescription: 'Kinezyolojik Bantlama (Kinesio Taping), özel elastik bantlar kullanılarak kasların, eklemlerin ve lenf sisteminin desteklenmesi tekniğidir. Spor yaralanmaları, kas ağrıları, postür problemleri ve ödem tedavisinde kullanılır. Hareket özgürlüğünü kısıtlamadan destek sağlar.',
-    imagePath: '/assets/images/services/spor-yaralanmalari.jpg',
+    imagePath: '/assets/images/tedavi/kinezyolojik-bantlama.jpg',
     slug: 'kinezyolojik-bantlama',
     icon: 'Bandage',
     benefits: [
@@ -243,7 +243,7 @@ export const tedaviServices: Service[] = [
     title: 'Fibromiyalji Tedavisi',
     description: 'Kronik ağrı ve yorgunluk yönetimi için özel tedavi programları.',
     fullDescription: 'Fibromiyalji, yaygın kas-iskelet ağrısı, yorgunluk ve hassas noktalarla karakterize kronik bir durumdur. Özel egzersiz programları, manuel terapi, gevşeme teknikleri ve ağrı yönetimi stratejileri ile semptomlar azaltılır ve yaşam kalitesi artırılır.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/fibromiyalji-tedavi.jpg',
     slug: 'fibromiyalji-tedavisi',
     icon: 'HeartPulse',
     benefits: [
@@ -262,7 +262,7 @@ export const tedaviServices: Service[] = [
     title: 'Evde Fizik Tedavi',
     description: 'Evinizin konforunda profesyonel fizyoterapi hizmeti.',
     fullDescription: 'Evde Fizik Tedavi, hareket kısıtlılığı olan, hastaneye gidemeyecek durumda olan veya evde tedavi olmayı tercih eden danışanlarımız için sunduğumuz özel hizmettir. Deneyimli fizyoterapistlerimiz, gerekli ekipmanlarla birlikte evinize gelerek kişiye özel tedavi ve egzersiz programlarını uygular. Yaşlı bakımı, ameliyat sonrası rehabilitasyon, kronik hastalıklar ve hareket kısıtlılıklarında ideal bir çözümdür.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/evde-fizik-tedavi.jpg',
     slug: 'evde-fizik-tedavi',
     icon: 'Home',
     benefits: [
@@ -281,7 +281,7 @@ export const tedaviServices: Service[] = [
     title: 'Bel ve Boyun Fıtığı',
     description: 'Bel ve boyun fıtığı tedavisi için özel egzersiz programları ve manuel terapi.',
     fullDescription: 'Bel ve boyun fıtığı tedavisinde, kişiye özel egzersiz programları, manuel terapi teknikleri, postür eğitimi ve ergonomi danışmanlığı ile ağrısız bir yaşam hedeflenir.',
-    imagePath: '/assets/images/services/bel-fitigi.jpg',
+    imagePath: '/assets/images/tedavi/bel-boyun-fitik.jpg',
     slug: 'bel-boyun-fitigi',
     icon: 'Activity',
     benefits: [
@@ -300,7 +300,7 @@ export const tedaviServices: Service[] = [
     title: 'Bel ve Boyun Düzleşmesi',
     description: 'Omurga eğriliği kayıplarının tedavisi ve postür düzeltme.',
     fullDescription: 'Bel ve boyun düzleşmesi (lordoz kaybı), omurganın doğal eğriliğinin azalması durumudur. Özel egzersizler ve manuel terapi ile tedavi edilir.',
-    imagePath: '/assets/images/services/boyun-agrisi.jpg',
+    imagePath: '/assets/images/tedavi/bel-boyun-duz.jpg',
     slug: 'bel-boyun-duzlesmesi',
     icon: 'AlignVerticalJustifyCenter',
     benefits: [
@@ -319,7 +319,7 @@ export const tedaviServices: Service[] = [
     title: 'Kireçlenme (Osteoartrit)',
     description: 'Eklem kireçlenmesi tedavisi ve ağrı yönetimi programları.',
     fullDescription: 'Osteoartrit (kireçlenme), eklem kıkırdağının aşınması sonucu oluşan dejeneratif bir hastalıktır. Egzersiz tedavisi, manuel terapi ve ağrı yönetimi ile tedavi edilir.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/kireclenme.jpg',
     slug: 'kireclenme-osteoartrit',
     icon: 'Bone',
     benefits: [
@@ -338,7 +338,7 @@ export const tedaviServices: Service[] = [
     title: 'Menisküs ve Bağ Yaralanmaları',
     description: 'Diz yaralanmalarının tedavisi ve rehabilitasyon programları.',
     fullDescription: 'Menisküs yırtıkları ve bağ yaralanmaları (ÖÇB, YÇB) için ameliyat öncesi ve sonrası rehabilitasyon programları uygulanır.',
-    imagePath: '/assets/images/services/spor-yaralanmalari.jpg',
+    imagePath: '/assets/images/tedavi/meniskus.jpg',
     slug: 'meniskus-bag-yaralanmalari',
     icon: 'Activity',
     benefits: [
@@ -357,7 +357,7 @@ export const tedaviServices: Service[] = [
     title: 'Romatizmal Hastalıklar',
     description: 'Romatoid artrit ve ankilozan spondilit gibi hastalıkların yönetimi.',
     fullDescription: 'Romatizmal hastalıklarda ağrı yönetimi, eklem hareketliliğini koruma ve fonksiyonel kapasiteyi artırma için özel egzersiz programları uygulanır.',
-    imagePath: '/assets/images/services/manuel-terapi.jpg',
+    imagePath: '/assets/images/tedavi/romatizmal.jpg',
     slug: 'romatizmal-hastaliklar',
     icon: 'Heart',
     benefits: [
@@ -376,7 +376,7 @@ export const tedaviServices: Service[] = [
     title: 'Skolyoz',
     description: 'Omurga eğriliği tedavisi ve özel egzersiz programları.',
     fullDescription: 'Skolyoz, omurganın yana doğru eğrilmesidir. Schroth metodu ve özel egzersizlerle eğriliğin ilerlemesi önlenir ve postür düzeltilir.',
-    imagePath: '/assets/images/services/boyun-agrisi.jpg',
+    imagePath: '/assets/images/tedavi/skolyoz.jpg',
     slug: 'skolyoz',
     icon: 'AlignVerticalJustifyCenter',
     benefits: [
@@ -395,7 +395,7 @@ export const tedaviServices: Service[] = [
     title: 'Postür Problemleri & Duruş Bozukluğu',
     description: 'Postür analizi ve düzeltme programları ile sağlıklı duruş.',
     fullDescription: 'Kötü postür, bel ve boyun ağrılarına, baş ağrısına ve kas dengesizliklerine neden olur. Postür analizi ve özel egzersizlerle düzeltilir.',
-    imagePath: '/assets/images/services/boyun-agrisi.jpg',
+    imagePath: '/assets/images/tedavi/postur-problem.jpg',
     slug: 'postur-problemleri',
     icon: 'User',
     benefits: [
@@ -414,7 +414,7 @@ export const tedaviServices: Service[] = [
     title: 'Fonksiyonel Egzersiz',
     description: 'Günlük yaşam aktivitelerine yönelik fonksiyonel egzersiz programları.',
     fullDescription: 'Fonksiyonel egzersiz, günlük yaşam aktivitelerini kolaylaştıran, birden fazla kas grubunu birlikte çalıştıran egzersizlerdir.',
-    imagePath: '/assets/images/services/spor-yaralanmalari.jpg',
+    imagePath: '/assets/images/tedavi/reformer-pilates.jpg',
     slug: 'fonksiyonel-egzersiz',
     icon: 'Activity',
     benefits: [
@@ -433,7 +433,7 @@ export const tedaviServices: Service[] = [
     title: 'Kişiye Özel Egzersiz',
     description: 'Bireye özel değerlendirme ve özelleştirilmiş egzersiz programları.',
     fullDescription: 'Kişiye özel egzersiz programları, bireyin ihtiyaçları, hedefleri ve fiziksel durumuna göre özel olarak tasarlanır.',
-    imagePath: '/assets/images/services/reformer-pilates.jpg',
+    imagePath: '/assets/images/tedavi/kisiye-ozel-plan.jpg',
     slug: 'kisiye-ozel-egzersiz',
     icon: 'Target',
     benefits: [

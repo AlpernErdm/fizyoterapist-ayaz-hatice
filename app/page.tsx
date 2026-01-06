@@ -45,7 +45,7 @@ export default function Home() {
         backgroundImage="/assets/images/hero-bg.jpg"
         ctaButtons={{
           primary: { text: 'Hizmetleri İncele', href: '#services' },
-          secondary: { text: 'İletişime Geç', href: '#contact' },
+          secondary: { text: 'İletişime Geç', href: '/iletisim' },
         }}
       />
 
