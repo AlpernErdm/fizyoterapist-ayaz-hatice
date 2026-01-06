@@ -1,0 +1,88 @@
+import type { GalleryImage } from '@/types';
+
+export const galleryImages: GalleryImage[] = [
+  {
+    id: '1',
+    imagePath: '/assets/images/gallery/gallery-1.jpg',
+    alt: 'Ayaz & Hatice Fizyoterapi - Klinik görünümü',
+    caption: 'Kliniğimizden görünüm',
+    category: 'clinic',
+  },
+  {
+    id: '2',
+    imagePath: '/assets/images/gallery/gallery-2.jpg',
+    alt: 'Ayaz & Hatice Fizyoterapi - Tedavi ortamı',
+    caption: 'Tedavi ortamımız',
+    category: 'clinic',
+  },
+  {
+    id: '3',
+    imagePath: '/assets/images/gallery/gallery-3.jpg',
+    alt: 'Ayaz & Hatice Fizyoterapi - Ekipman ve tedavi alanı',
+    caption: 'Ekipman ve tedavi alanımız',
+    category: 'equipment',
+  },
+  {
+    id: '4',
+    imagePath: '/assets/images/gallery/gallery-4.jpg',
+    alt: 'Ayaz & Hatice Fizyoterapi - Klinik iç mekan',
+    caption: 'Klinik iç mekanımız',
+    category: 'clinic',
+  },
+  {
+    id: '5',
+    imagePath: '/assets/images/gallery/gallery-5.jpg',
+    alt: 'Egzersiz alanı - Geniş ve donanımlı spor salonu',
+    caption: 'Egzersiz alanımız',
+    category: 'clinic',
+  },
+  {
+    id: '6',
+    imagePath: '/assets/images/gallery/gallery-6.jpg',
+    alt: 'Kuru iğneleme tedavisi - Tetik nokta tedavisi',
+    caption: 'Kuru iğneleme uygulaması',
+    category: 'treatment',
+  },
+  {
+    id: '7',
+    imagePath: '/assets/images/gallery/gallery-7.jpg',
+    alt: 'Bekleme alanı - Konforlu ve modern tasarım',
+    caption: 'Bekleme alanımız',
+    category: 'clinic',
+  },
+  {
+    id: '8',
+    imagePath: '/assets/images/gallery/gallery-8.jpg',
+    alt: 'Egzersiz ekipmanları - Çeşitli rehabilitasyon araçları',
+    caption: 'Egzersiz ekipmanlarımız',
+    category: 'equipment',
+  },
+  {
+    id: '9',
+    imagePath: '/assets/images/gallery/gallery-9.jpg',
+    alt: 'Pilates seansı - Kişiye özel egzersiz programı',
+    caption: 'Pilates seansı',
+    category: 'treatment',
+  },
+  {
+    id: '10',
+    imagePath: '/assets/images/gallery/gallery-10.jpg',
+    alt: 'Tedavi masası - Profesyonel ekipman',
+    caption: 'Tedavi masalarımız',
+    category: 'equipment',
+  },
+  {
+    id: '11',
+    imagePath: '/assets/images/gallery/gallery-11.jpg',
+    alt: 'Grup egzersiz seansı - Toplu rehabilitasyon programı',
+    caption: 'Grup egzersiz seansları',
+    category: 'treatment',
+  },
+  {
+    id: '12',
+    imagePath: '/assets/images/gallery/gallery-12.jpg',
+    alt: 'Klinik dış görünüm - Modern bina tasarımı',
+    caption: 'Kliniğimizin dış görünümü',
+    category: 'clinic',
+  },
+];
